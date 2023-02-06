@@ -1,7 +1,7 @@
 # Imports go at the top
 from microbit import *
 i= 0
-lista_amigos = ["Lucas", "María", "Esteban","Abulai", "Nico", "Eva", "Julia", "Pepe"]
+lista_amigos = ["Daniel","Lucas", "María", "Esteban","Abulai", "Nico", "Eva", "Julia", "Pepe"]
 
 while True:
       if button_a.was_pressed():
